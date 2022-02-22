@@ -12,7 +12,9 @@ some common data issues: * incosistent data columns * Missing data * duplicate d
 
 # Table of Contents:
 1. [creating-reading-and-writing](https://github.com/AnureetKaurTiwana/Python_Pandas/blob/main/exercise-creating-reading-and-writing.ipynb)
+   
    creating a dataframe from dictionary
+   
 2. [data-types-and-missing-values](https://github.com/AnureetKaurTiwana/Python_Pandas/blob/main/exercise-data-types-and-missing-values%20(1).ipynb)
     fillna(), value_counts(), and sort_values().
 3. [grouping-and-sorting](https://github.com/AnureetKaurTiwana/Python_Pandas/blob/main/exercise-grouping-and-sorting.ipynb)
