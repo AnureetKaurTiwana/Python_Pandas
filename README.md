@@ -29,10 +29,10 @@ some common data issues: * incosistent data columns * Missing data * duplicate d
 7. [Pandas-Descriptive Analysis with Python](https://github.com/AnureetKaurTiwana/Python_Pandas/blob/main/Pandas-Descriptive%20Analysis%20with%20Python.py)
    
    Reading and writing operations in the following formats:
-   Excel files
-   CSV files
-   importing files from web
-   JSON files
+   1. Excel files
+   2. CSV files
+   3. importing files from web
+   4. JSON files
 8. [Python Binary Format](https://github.com/AnureetKaurTiwana/Python_Pandas/blob/main/Python%20Binary%20Format.py)
    
    Pickle files
