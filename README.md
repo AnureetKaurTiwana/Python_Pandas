@@ -58,6 +58,6 @@ some common data issues: * incosistent data columns * Missing data * duplicate d
        drop(column name, axis=1,inplace=True) permanent chnage in dataframe, column is dropped
     e) drop rows or columns with nan
     
-   11. [Merge, Join, Concatenate, Transpose, Describe](https://github.com/AnureetKaurTiwana/Python_Pandas/blob/main/Pandas%20GroupBY.py)
+11. [Merge, Join, Concatenate, Transpose, Describe](https://github.com/AnureetKaurTiwana/Python_Pandas/blob/main/Pandas%20GroupBY.py)
 
 
