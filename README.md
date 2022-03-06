@@ -56,6 +56,8 @@ some common data issues: * incosistent data columns * Missing data * duplicate d
        drop(names index only/no default index)
        drop(name), by default axis=0 i.e Row it will drop, inplace=False so the chnage will not be permanent in the dataframe
        drop(column name, axis=1,inplace=True) permanent chnage in dataframe, column is dropped
-    e) drop rows or columns with nan 
+    e) drop rows or columns with nan
+    
+   11. [Merge, Join, Concatenate, Transpose, Describe](https://github.com/AnureetKaurTiwana/Python_Pandas/blob/main/Pandas%20GroupBY.py)
 
 
